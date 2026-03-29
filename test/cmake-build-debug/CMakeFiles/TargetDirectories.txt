@@ -1,0 +1,3 @@
+D:/C++/Competition/lanqiao/test/cmake-build-debug/CMakeFiles/test.dir
+D:/C++/Competition/lanqiao/test/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/Competition/lanqiao/test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
