@@ -1,3 +1,3 @@
-D:/C++/Competition/lanqiao/16th/cmake-build-debug/CMakeFiles/16th.dir
-D:/C++/Competition/lanqiao/16th/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/C++/Competition/lanqiao/16th/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/C++/LanQiao/16th/cmake-build-debug/CMakeFiles/16th.dir
+D:/C++/LanQiao/16th/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/LanQiao/16th/cmake-build-debug/CMakeFiles/rebuild_cache.dir

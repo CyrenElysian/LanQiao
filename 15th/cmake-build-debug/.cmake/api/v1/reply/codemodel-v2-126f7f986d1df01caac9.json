@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "16th",
+					"name" : "15th",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "16th::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-16th-Debug-fdafb5b32e9115425697.json",
-					"name" : "16th",
+					"id" : "15th::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-15th-Debug-9a79d315b9fe4a314ea1.json",
+					"name" : "15th",
 					"projectIndex" : 0
 				}
 			]
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/C++/Competition/lanqiao/16th/cmake-build-debug",
-		"source" : "D:/C++/Competition/lanqiao/16th"
+		"build" : "D:/C++/LanQiao/15th/cmake-build-debug",
+		"source" : "D:/C++/LanQiao/15th"
 	},
 	"version" : 
 	{
