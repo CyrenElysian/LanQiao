@@ -97,12 +97,6 @@ build CMakeFiles/15th.dir/six.cpp.obj: CXX_COMPILER__15th_unscanned_Debug D$:/C+
   OBJECT_DIR = CMakeFiles\15th.dir
   OBJECT_FILE_DIR = CMakeFiles\15th.dir
 
-build CMakeFiles/15th.dir/seven.cpp.obj: CXX_COMPILER__15th_unscanned_Debug D$:/C++/LanQiao/15th/seven.cpp || cmake_object_order_depends_target_15th
-  DEP_FILE = CMakeFiles\15th.dir\seven.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\15th.dir
-  OBJECT_FILE_DIR = CMakeFiles\15th.dir
-
 
 # =============================================================================
 # Link build statements for EXECUTABLE target 15th
@@ -111,7 +105,7 @@ build CMakeFiles/15th.dir/seven.cpp.obj: CXX_COMPILER__15th_unscanned_Debug D$:/
 #############################################
 # Link the executable 15th.exe
 
-build 15th.exe: CXX_EXECUTABLE_LINKER__15th_Debug CMakeFiles/15th.dir/one.cpp.obj CMakeFiles/15th.dir/two.cpp.obj CMakeFiles/15th.dir/two_opt.cpp.obj CMakeFiles/15th.dir/three.cpp.obj CMakeFiles/15th.dir/four.cpp.obj CMakeFiles/15th.dir/four_opt.cpp.obj CMakeFiles/15th.dir/five.cpp.obj CMakeFiles/15th.dir/six.cpp.obj CMakeFiles/15th.dir/seven.cpp.obj
+build 15th.exe: CXX_EXECUTABLE_LINKER__15th_Debug CMakeFiles/15th.dir/one.cpp.obj CMakeFiles/15th.dir/two.cpp.obj CMakeFiles/15th.dir/two_opt.cpp.obj CMakeFiles/15th.dir/three.cpp.obj CMakeFiles/15th.dir/four.cpp.obj CMakeFiles/15th.dir/four_opt.cpp.obj CMakeFiles/15th.dir/five.cpp.obj CMakeFiles/15th.dir/six.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\15th.dir
